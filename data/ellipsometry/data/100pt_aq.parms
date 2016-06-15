@@ -1,0 +1,30 @@
+﻿
+start_Parm Set Information
+	''	''	
+end_Parm Set Information
+
+start_Data Parameters
+	'Standard'	
+	1.0	
+end_Data Parameters
+
+start_Data Parm Map
+	1	
+	'High Accuracy Mode'	'BOOLEAN'	T	
+	
+end_Data Parm Map
+
+start_System Parameters
+	T	3	70.0	70.0	5.0	
+	T	3	0.0	0.0	5.0	
+	F	
+	
+end_System Parameters
+
+start_System Parm Map
+	3	
+	'Disable Translator Reposition'	'BOOLEAN'	F	
+	'Disable Sample Load'	'BOOLEAN'	F	
+	'Skip Alignment'	'BOOLEAN'	F	
+	
+end_System Parm Map

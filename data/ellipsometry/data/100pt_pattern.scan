@@ -1,0 +1,178 @@
+﻿
+start_Substrate Dimensions
+	1	20.0	F	10.0	10.0	
+end_Substrate Dimensions
+
+start_Alignment
+	0	0.0	0.0	
+end_Alignment
+
+start_Offsets
+	0.0	0.0	0.0	F	
+end_Offsets
+
+start_Sample Load
+	0	
+end_Sample Load
+
+start_Rendering Mode
+	0	0.0	
+end_Rendering Mode
+
+start_Scan Points
+	100	
+	-4.5	4.5	0	
+	-3.5	4.5	0	
+	-2.5	4.5	0	
+	-1.5	4.5	0	
+	-0.5	4.5	0	
+	0.5	4.5	0	
+	1.5	4.5	0	
+	2.5	4.5	0	
+	3.5	4.5	0	
+	4.5	4.5	0	
+	4.5	3.5	0	
+	3.5	3.5	0	
+	2.5	3.5	0	
+	1.5	3.5	0	
+	0.5	3.5	0	
+	-0.5	3.5	0	
+	-1.5	3.5	0	
+	-2.5	3.5	0	
+	-3.5	3.5	0	
+	-4.5	3.5	0	
+	-4.5	2.5	0	
+	-3.5	2.5	0	
+	-2.5	2.5	0	
+	-1.5	2.5	0	
+	-0.5	2.5	0	
+	0.5	2.5	0	
+	1.5	2.5	0	
+	2.5	2.5	0	
+	3.5	2.5	0	
+	4.5	2.5	0	
+	4.5	1.5	0	
+	3.5	1.5	0	
+	2.5	1.5	0	
+	1.5	1.5	0	
+	0.5	1.5	0	
+	-0.5	1.5	0	
+	-1.5	1.5	0	
+	-2.5	1.5	0	
+	-3.5	1.5	0	
+	-4.5	1.5	0	
+	-4.5	0.5	0	
+	-3.5	0.5	0	
+	-2.5	0.5	0	
+	-1.5	0.5	0	
+	-0.5	0.5	0	
+	0.5	0.5	0	
+	1.5	0.5	0	
+	2.5	0.5	0	
+	3.5	0.5	0	
+	4.5	0.5	0	
+	4.5	-0.5	0	
+	3.5	-0.5	0	
+	2.5	-0.5	0	
+	1.5	-0.5	0	
+	0.5	-0.5	0	
+	-0.5	-0.5	0	
+	-1.5	-0.5	0	
+	-2.5	-0.5	0	
+	-3.5	-0.5	0	
+	-4.5	-0.5	0	
+	-4.5	-1.5	0	
+	-3.5	-1.5	0	
+	-2.5	-1.5	0	
+	-1.5	-1.5	0	
+	-0.5	-1.5	0	
+	0.5	-1.5	0	
+	1.5	-1.5	0	
+	2.5	-1.5	0	
+	3.5	-1.5	0	
+	4.5	-1.5	0	
+	4.5	-2.5	0	
+	3.5	-2.5	0	
+	2.5	-2.5	0	
+	1.5	-2.5	0	
+	0.5	-2.5	0	
+	-0.5	-2.5	0	
+	-1.5	-2.5	0	
+	-2.5	-2.5	0	
+	-3.5	-2.5	0	
+	-4.5	-2.5	0	
+	-4.5	-3.5	0	
+	-3.5	-3.5	0	
+	-2.5	-3.5	0	
+	-1.5	-3.5	0	
+	-0.5	-3.5	0	
+	0.5	-3.5	0	
+	1.5	-3.5	0	
+	2.5	-3.5	0	
+	3.5	-3.5	0	
+	4.5	-3.5	0	
+	4.5	-4.5	0	
+	3.5	-4.5	0	
+	2.5	-4.5	0	
+	1.5	-4.5	0	
+	0.5	-4.5	0	
+	-0.5	-4.5	0	
+	-1.5	-4.5	0	
+	-2.5	-4.5	0	
+	-3.5	-4.5	0	
+	-4.5	-4.5	0	
+end_Scan Points
+
+start_Deskew
+	0.0	0.0	0.0	0.0	F	
+	F	0	0	
+end_Deskew
+
+start_Transmission Baseline
+	F	0.0	0.0	
+end_Transmission Baseline
+
+start_Pattern Rec
+	F	0	-1	
+	
+	start_Target1
+		0	
+		-99999	-99999	
+		0	0	
+		
+	end_Target1
+	
+	start_Target2
+		0	
+		-99999	-99999	
+		0	0	
+		
+	end_Target2
+	
+	start_Match Parms
+		128	
+		F	
+	end_Match Parms
+	
+end_Pattern Rec
+
+start_Pad Alignment
+	F	
+	
+end_Pad Alignment
+
+start_Pad Pattern Rec
+	F	0	-1	1	
+	0	
+	0	
+	
+	start_Match Parms
+		128	F	
+	end_Match Parms
+	
+end_Pad Pattern Rec
+
+start_Trans Coords Options
+	F	
+	
+end_Trans Coords Options
